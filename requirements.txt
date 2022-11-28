@@ -1,0 +1,9 @@
+matplotlib
+sklearn
+scikit-image
+numpy
+opencv-python
+tensorflow
+albumentations
+importlib
+pathlib
