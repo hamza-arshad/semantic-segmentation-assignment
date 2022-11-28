@@ -8,6 +8,12 @@ Notebook for the UNet based model, trained from the start on limited CityScapes 
 ## Task2.ipynb
 Notebook for the Deeplabv3 based model, resnet50 based encoder loaded from tensorflow with pre-trained weights and decoder implemented and trained on our dataset
 
+## data_generator.py
+Helpful in generating data with albumentations transofrmations applied. Reusable class for data generation.
+
+## utils.py
+Basic utility functions to convert images, metrics calculations etc
+
 # Requirements
 - You need to have python 3 installed.
 
